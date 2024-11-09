@@ -1,0 +1,6 @@
+projectKey=Java-Minesweeper-Game
+serverUrl=http://localhost:9003
+serverVersion=10.7.0.96327
+dashboardUrl=http://localhost:9003/dashboard?id=Java-Minesweeper-Game
+ceTaskId=e08a4fc8-d53d-4368-8357-066a3c99e72d
+ceTaskUrl=http://localhost:9003/api/ce/task?id=e08a4fc8-d53d-4368-8357-066a3c99e72d
